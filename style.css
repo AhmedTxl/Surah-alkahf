@@ -1,0 +1,46 @@
+* {
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+}
+
+.btnDark {
+    background: #fff;
+    padding: 10px 20px 10px;
+    font-size: 18px;
+    border-style: revert;
+    border-radius: 9px;
+}
+
+.btnDark:hover {
+    background: rgb(59, 168, 32);
+    font-weight: bold;
+}
+
+p {
+    border-radius: 10px;
+    border-style: groove;
+    line-height: 2.2em;
+    margin: 0px 156px 0px;
+    padding: 15px 42px 10px;
+    font-size: 29px;
+}
+
+body {
+    background: rgb(233, 207, 152);
+    padding: 25px;
+    color: black;
+    font-size: 25px;
+  }
+  
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.about {
+    border-style:groove; 
+    font-family: fantasy; 
+    margin: 0px 15px 0px; 
+    padding: 15px 32px 10px;
+}
